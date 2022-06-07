@@ -1,0 +1,166 @@
+Base path: 'D:/unity folder/2022.1.0b3/Editor/Data', plugins path 'D:/unity folder/2022.1.0b3/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: compileComputeKernel
+  insize=9980 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.visualeffectgraph@13.1.4/Editor/Templates/SimpleHeadsAndTrails.vfx kernel=CSMain ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=7915
+
+Cmd: compileComputeKernel
+  insize=26447 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/LightLoop/lightlistbuild-clustered.compute kernel=TileLightListGen_DepthRT_SrcBigTile ppOnly=0 stripLineD=0 buildPlatform=21 km=<LIGHTLISTGEN=TileLightListGen_DepthRT_SrcBigTile>,<ENABLE_DEPTH_TEXTURE_BACKPLANE=1>,<USE_TWO_PASS_TILED_LIGHTING=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=15252
+
+Cmd: compileComputeKernel
+  insize=17647 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/VolumetricLighting/VolumeVoxelization.compute kernel=VolumeVoxelizationTiled ppOnly=0 stripLineD=0 buildPlatform=21 km=<VolumeVoxelization=VolumeVoxelizationTiled>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=8792
+
+Cmd: compileComputeKernel
+  insize=11113 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/LightLoop/Deferred.compute kernel=Deferred_Indirect_Fptl_Variant0 ppOnly=0 stripLineD=0 buildPlatform=21 km=<SHADE_OPAQUE_ENTRY=Deferred_Indirect_Fptl_Variant0>,<USE_INDIRECT=1>,<VARIANT=0>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SCREEN_SPACE_SHADOWS_OFF PROBE_VOLUMES_OFF SHADOW_HIGH SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=18191
+
+Cmd: compileComputeKernel
+  insize=11113 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/LightLoop/Deferred.compute kernel=Deferred_Indirect_Fptl_Variant7 ppOnly=0 stripLineD=0 buildPlatform=21 km=<SHADE_OPAQUE_ENTRY=Deferred_Indirect_Fptl_Variant7>,<USE_INDIRECT=1>,<VARIANT=7>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SCREEN_SPACE_SHADOWS_OFF PROBE_VOLUMES_OFF SHADOW_HIGH SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=79618
+
+Cmd: compileComputeKernel
+  insize=11113 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/LightLoop/Deferred.compute kernel=Deferred_Indirect_Fptl_Variant22 ppOnly=0 stripLineD=0 buildPlatform=21 km=<SHADE_OPAQUE_ENTRY=Deferred_Indirect_Fptl_Variant22>,<USE_INDIRECT=1>,<VARIANT=22>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SCREEN_SPACE_SHADOWS_OFF PROBE_VOLUMES_OFF SHADOW_HIGH SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=92699
+
+Cmd: compileComputeKernel
+  insize=5804 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/PostProcessing/Shaders/HistogramExposure.compute kernel=KHistogramReduce ppOnly=0 stripLineD=0 buildPlatform=21 km=<REDUCE_PASS=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=2806
+
+Cmd: compileComputeKernel
+  insize=9109 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.visualeffectgraph@13.1.4/Editor/Templates/SimpleHeadsAndSparks.vfx kernel=CSMain ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=2660
+
+Cmd: compileComputeKernel
+  insize=8985 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.visualeffectgraph@13.1.4/Editor/Templates/SimpleRibbon.vfx kernel=CSMain ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=1765
+
+Cmd: compileComputeKernel
+  insize=1414 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.visualeffectgraph@13.1.4/Shaders/VFXCopyBuffer.compute kernel=CSVFXInitDeadListBuffer ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=678
+
+Cmd: compileComputeKernel
+  insize=1260 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/RenderPipeline/Raytracing/Shaders/RayTracingAmbientOcclusion.compute kernel=RTAOApplyIntensity ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=671
+
+Cmd: compileComputeKernel
+  insize=16415 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Sky/PhysicallyBasedSky/InScatteredRadiancePrecomputation.compute kernel=MAIN_M ppOnly=0 stripLineD=0 buildPlatform=21 km=<main=MAIN_M>,<MULTIPLE_SCATTERING_GATHER=1>,<SRC_MS=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=9933
+
+Cmd: compileComputeKernel
+  insize=33420 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/RenderPipeline/Raytracing/Shaders/Shadows/RaytracingShadow.compute kernel=OutputSpecularShadowTexture ppOnly=0 stripLineD=0 buildPlatform=21 km=<OUTPUT_SHADOW_TEXTURE=OutputSpecularShadowTexture>,<SPECULAR_SHADOW=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=1198
+
+Cmd: compileComputeKernel
+  insize=33420 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/RenderPipeline/Raytracing/Shaders/Shadows/RaytracingShadow.compute kernel=RaytracingAreaShadowNewSample ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=22579
+
+Cmd: compileComputeKernel
+  insize=1909 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/PostProcessing/Shaders/DoFCoCMinMax.compute kernel=KMainCoCMinMax ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=1231
+
+Cmd: compileComputeKernel
+  insize=2228 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/PostProcessing/Shaders/DebugHistogramImage.compute kernel=KHistogramGen ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=1855
+
+Cmd: compileComputeKernel
+  insize=6341 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/RenderPipeline/Raytracing/Shaders/Denoising/DiffuseShadowDenoiser.compute kernel=BilateralFilterHColorDirectional ppOnly=0 stripLineD=0 buildPlatform=21 km=<BILATERAL_FILTER=BilateralFilterHColorDirectional>,<DIRECTIONAL_LIGHT=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=6053
+
+Cmd: compileComputeKernel
+  insize=2397 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/PostProcessing/Shaders/MotionBlurMergeTilePass.compute kernel=TileMerge ppOnly=0 stripLineD=0 buildPlatform=21 km=<MERGE_PASS=1>,<SCATTERING=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=2159
+
+Cmd: compileComputeKernel
+  insize=26447 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/LightLoop/lightlistbuild-clustered.compute kernel=TileLightListGen_DepthRT_SrcBigTile_Oblique ppOnly=0 stripLineD=0 buildPlatform=21 km=<LIGHTLISTGEN=TileLightListGen_DepthRT_SrcBigTile_Oblique>,<ENABLE_DEPTH_TEXTURE_BACKPLANE=1>,<USE_TWO_PASS_TILED_LIGHTING=1>,<USE_OBLIQUE_MODE=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=15432
+
+Cmd: compileComputeKernel
+  insize=26447 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/LightLoop/lightlistbuild-clustered.compute kernel=TileLightListGen_DepthRT ppOnly=0 stripLineD=0 buildPlatform=21 km=<LIGHTLISTGEN=TileLightListGen_DepthRT>,<ENABLE_DEPTH_TEXTURE_BACKPLANE=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=14750
+
+Cmd: compileComputeKernel
+  insize=3618 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Sky/PhysicallyBasedSky/GroundIrradiancePrecomputation.compute kernel=MAIN_1 ppOnly=0 stripLineD=0 buildPlatform=21 km=<main=MAIN_1>,<SINGLE_SCATTERING=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=1852
+
+Cmd: compileComputeKernel
+  insize=4505 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/ShaderLibrary/ResolveStencilBuffer.compute kernel=MAIN_MSAA_2_RESOLVE_ONLY ppOnly=0 stripLineD=0 buildPlatform=21 km=<KERNEL_NAME=MAIN_MSAA_2_RESOLVE_ONLY>,<NUM_SAMPLES=2>,<MSAA=1>,<RESOLVE=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=785
+
+Cmd: compileComputeKernel
+  insize=7129 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.core@13.1.4/Editor/Lighting/ProbeVolume/ProbeVolumeSubdivide.compute kernel=Subdivide ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=1757
+
+Cmd: compileComputeKernel
+  insize=74307 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/VolumetricLighting/VolumetricClouds.compute kernel=UpscaleAndCombineClouds_ColorCopy ppOnly=0 stripLineD=0 buildPlatform=21 km=<UPSAMPLE_KERNEL=UpscaleAndCombineClouds_ColorCopy>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=11936
+
+Cmd: compileComputeKernel
+  insize=74307 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/VolumetricLighting/VolumetricClouds.compute kernel=ReprojectClouds ppOnly=0 stripLineD=0 buildPlatform=21 km=<REPROJECT_CLOUDS=ReprojectClouds>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=13618
+
+Cmd: compileComputeKernel
+  insize=6642 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Sky/AmbientProbeConvolution.compute kernel=AmbientProbeConvolution ppOnly=0 stripLineD=0 buildPlatform=21 km=<KERNEL_NAME=AmbientProbeConvolution>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=9170
+
+Cmd: compileComputeKernel
+  insize=18815 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/RenderPipeline/Raytracing/Shaders/Denoising/TemporalFilter.compute kernel=CopyHistory ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=720
+
+Cmd: compileComputeKernel
+  insize=13194 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/RenderPipeline/Raytracing/Shaders/Reflections/RaytracingReflections.compute kernel=RaytracingReflectionsTransparentFullRes ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=2845
+
+Cmd: compileComputeKernel
+  insize=12035 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/Shadow/MomentShadows.compute kernel=MomentSummedAreaTableHorizontal ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=1307
+
+Cmd: compileComputeKernel
+  insize=29643 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/ScreenSpaceLighting/ScreenSpaceReflections.compute kernel=ScreenSpaceReflectionsAccumulate ppOnly=0 stripLineD=0 buildPlatform=21 km=<SSR_ACCUMULATE=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=2299
+
+Cmd: compileComputeKernel
+  insize=17647 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/VolumetricLighting/VolumeVoxelization.compute kernel=VolumeVoxelizationBruteforceOptimal ppOnly=0 stripLineD=0 buildPlatform=21 km=<VolumeVoxelization=VolumeVoxelizationBruteforceOptimal>,<LIGHTLOOP_DISABLE_TILE_AND_CLUSTER=1>,<VL_PRESET_OPTIMAL=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=7632
+
+Cmd: compileComputeKernel
+  insize=9899 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.visualeffectgraph@13.1.4/Shaders/Sort.compute kernel=MergePass ppOnly=0 stripLineD=0 buildPlatform=21 km=<MERGE_PASS=MergePass>,<FINAL_PASS=0>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=4574
+
+Cmd: compileComputeKernel
+  insize=11883 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/RenderPipeline/Raytracing/Shaders/Denoising/DiffuseDenoiser.compute kernel=GatherSingle ppOnly=0 stripLineD=0 buildPlatform=21 km=<GATHER_FILTER=GatherSingle>,<SINGLE_CHANNEL=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=2042
+
+Cmd: compileComputeKernel
+  insize=3821 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Editor/Lighting/VolumetricClouds/WorleyEvaluator.compute kernel=WorleyNoiseEvaluator ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=3944
+
+Cmd: compileComputeKernel
+  insize=13692 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/RenderPipeline/Raytracing/Shaders/Denoising/ReflectionDenoiser.compute kernel=TemporalAccumulationHalfRes ppOnly=0 stripLineD=0 buildPlatform=21 km=<TEMPORAL_ACCUMULATION=TemporalAccumulationHalfRes>,<HALF_RESOLUTION=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=8922
+
+Cmd: compileComputeKernel
+  insize=11045 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/PlanarReflectionFiltering.compute kernel=FilterPlanarReflection ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=3364
+
+Cmd: compileComputeKernel
+  insize=20587 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.visualeffectgraph@13.1.4/Shaders/SDFBaker/GenSdfRayMap.compute kernel=CopyToBuffer ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=733
+
+Cmd: compileComputeKernel
+  insize=20587 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.visualeffectgraph@13.1.4/Shaders/SDFBaker/GenSdfRayMap.compute kernel=RayMapScanX ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=836
+
+Cmd: compileComputeKernel
+  insize=20587 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.visualeffectgraph@13.1.4/Shaders/SDFBaker/GenSdfRayMap.compute kernel=FinalSum ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=949
+
+Cmd: compileComputeKernel
+  insize=5407 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.core@13.1.4/Editor/Lighting/ProbeVolume/ProbeVolumeCellDilation.compute kernel=DilateCell ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=10112
+
+Cmd: compileComputeKernel
+  insize=21810 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/RenderPipeline/Raytracing/Shaders/Shadows/RaytracingShadowFilter.compute kernel=WriteShadowTextureDebug ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=1002
+
+Cmd: compileComputeKernel
+  insize=21810 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/RenderPipeline/Raytracing/Shaders/Shadows/RaytracingShadowFilter.compute kernel=AreaShadowApplyTAA ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=5655
+
+Cmd: compileComputeKernel
+  insize=3402 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/PostProcessing/Shaders/DepthOfFieldMip.compute kernel=KMainCoC ppOnly=0 stripLineD=0 buildPlatform=21 km=<MAIN=KMainCoC>,<CTYPE=float>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=2186
+
+Cmd: compileComputeKernel
+  insize=10394 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/ScreenSpaceLighting/GTAOBlurAndUpsample.compute kernel=BlurUpsample ppOnly=0 stripLineD=0 buildPlatform=21 km=<BLUR_AND_UPSAMPLE=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=9672
+
+Cmd: compileComputeKernel
+  insize=3623 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/RenderPipeline/Raytracing/Shaders/Denoising/SimpleDenoiser.compute kernel=BilateralFilterVSingle ppOnly=0 stripLineD=0 buildPlatform=21 km=<BILATERAL_FILTER=BilateralFilterVSingle>,<FINAL_PASS=1>,<SINGLE_CHANNEL=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=4713
+
+Cmd: compileComputeKernel
+  insize=4864 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/RenderPipeline/Raytracing/Shaders/SubSurface/RayTracingSubSurface.compute kernel=BlendSubSurfaceDataWithGI ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=1834
+
+Cmd: compileComputeKernel
+  insize=5467 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/PostProcessing/Shaders/Exposure.compute kernel=KReset ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=317
+
+Cmd: compileComputeKernel
+  insize=4411 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/RenderPipeline/Raytracing/Shaders/CountTracedRays.compute kernel=BufferReduction ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=2864
+
+Cmd: compileComputeKernel
+  insize=11114 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/LightLoop/Deferred.compute kernel=Deferred_Indirect_Fptl_Variant27 ppOnly=0 stripLineD=0 buildPlatform=21 km=<SHADE_OPAQUE_ENTRY=Deferred_Indirect_Fptl_Variant27>,<USE_INDIRECT=1>,<VARIANT=27>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SCREEN_SPACE_SHADOWS_OFF PROBE_VOLUMES_OFF SHADOW_LOW SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=76907
+
+Cmd: compileComputeKernel
+  insize=11114 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/LightLoop/Deferred.compute kernel=Deferred_Indirect_Fptl_Variant22 ppOnly=0 stripLineD=0 buildPlatform=21 km=<SHADE_OPAQUE_ENTRY=Deferred_Indirect_Fptl_Variant22>,<USE_INDIRECT=1>,<VARIANT=22>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SCREEN_SPACE_SHADOWS_OFF PROBE_VOLUMES_OFF SHADOW_LOW SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=87351
+
+Cmd: compileComputeKernel
+  insize=11114 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/LightLoop/Deferred.compute kernel=Deferred_Indirect_Fptl_Variant15 ppOnly=0 stripLineD=0 buildPlatform=21 km=<SHADE_OPAQUE_ENTRY=Deferred_Indirect_Fptl_Variant15>,<USE_INDIRECT=1>,<VARIANT=15>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SCREEN_SPACE_SHADOWS_OFF PROBE_VOLUMES_OFF SHADOW_LOW SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=36343
+
+Cmd: compileComputeKernel
+  insize=11114 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/LightLoop/Deferred.compute kernel=Deferred_Indirect_Fptl_Variant8 ppOnly=0 stripLineD=0 buildPlatform=21 km=<SHADE_OPAQUE_ENTRY=Deferred_Indirect_Fptl_Variant8>,<USE_INDIRECT=1>,<VARIANT=8>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SCREEN_SPACE_SHADOWS_OFF PROBE_VOLUMES_OFF SHADOW_LOW SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=45829
+
+Cmd: compileComputeKernel
+  insize=11114 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/Lighting/LightLoop/Deferred.compute kernel=Deferred_Indirect_Fptl_Variant1 ppOnly=0 stripLineD=0 buildPlatform=21 km=<SHADE_OPAQUE_ENTRY=Deferred_Indirect_Fptl_Variant1>,<USE_INDIRECT=1>,<VARIANT=1>,<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SCREEN_SPACE_SHADOWS_OFF PROBE_VOLUMES_OFF SHADOW_LOW SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=19602
+
+Cmd: compileComputeKernel
+  insize=2782 file=C:/Unity projects/axyennaya igra ot MSL/Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.4/Runtime/PostProcessing/Shaders/DoFCircleOfConfusion.compute kernel=KMainCoCManual ppOnly=0 stripLineD=0 buildPlatform=21 km=<UNITY_VERSION=202210> pKW=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 SHADER_API_DESKTOP UNITY_LIGHTMAP_FULL_HDR uKW=SHADER_STAGE_COMPUTE platform=d3d11 flags=0 reqs=16385 forceDXC=0 forceFXC=0 ok=1 outsize=1290
+
+Cmd: shutdown
